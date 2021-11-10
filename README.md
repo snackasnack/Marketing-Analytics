@@ -1,37 +1,13 @@
-# Marketing-Analytics
+#Conclusion
 
-# assignment
-This assignment will assess your ability to:
+1) Shown below are the top 10 marketing campaign that was conducted. Only above average outreach numbers (among all campaigns) are considered based on their average cost per acquisition of each lead. The attached pictures shows most cost effective campaigns in a descending order. 
+![image](https://user-images.githubusercontent.com/72505694/141182473-68fde9fd-df3e-4fbe-93d2-b93972e9dd22.png)
 
-1. Clean-up data not in standard format
-2. Process data into standard summary statistics
-3. Python and Jupyter notebook proficiency
+2) Among the target groups, product interest, persona, and country had the least correlation and relevance. 
 
-### contents
-The assignment contains three files
+3) Variables like medium and source had a strong relation with the average cost per lead acquisition, as shown in the picture attached below: 
+![image](https://user-images.githubusercontent.com/72505694/141183069-69182f17-dcfc-4112-bef4-7fada4bb5ebf.png)
+![image](https://user-images.githubusercontent.com/72505694/141183107-bfb62822-b5d3-4cd3-bd29-ae34eb277dc1.png)
 
-1. campaigns.csv
-2. marketing_sales.csv
-3. this INSTRUCTIONS.md file
-
-_campaigns_
-is a table of marketing campaigns by start date and amount spent
-
-_marketing_sales_
-contains information about leads generated both organically and from campaigns
-
-### instructions
-Consider these two questions for you from the head of marketing
-
-1. How cost effective have the campaigns been this year?
-2. What are your improvement recommendations?
-
-Summarize your recommendations using description and no more than 4 visuals which can be any combination of tables and graphs
-
-1. publish your results as a jupyter notebook to a public github repository 
-         and include the source .csv files
-2. explain your analysis steps using markdown and code comments
-3. you may use whichever packages you see fit however try to keep to a limited number of packages
-
-
-
+Hence, regardless of target audience class, source and medium should be considered first to better justify cost of marketing campaigns for optimal lead generation results. Though having a lower average cost per acquisition, the standard deviation is higher. Thus less significant factors like product interest, persona and country can be considered to get most cost effective marketing strategy.
+![image](https://user-images.githubusercontent.com/72505694/141185012-bdf4b6ed-c0ce-4695-9331-e02485681f95.png)
